@@ -75,7 +75,18 @@
     - - This morning, my motivation and inspiration to change myself fluctuated again, But I know how to control this feeling. I closed my eyes and thought about my life aim calmly, my motivation and inspiration are increasing continuously. But when I got out the bed, I changed my body post, I found a new sleep post that was very comfortable and convenient, it made me sleep again, I fell asleep for 20 minutes before waking up again. I was almost swallowed by my weakness. Every morning was so cold, my body was so heavy, my eyes were difficult to open, and my my was be weakness. Today, I have many plans to make, I think to myself, that I won't give up, I won't let myself fall here, and there's no way that I will give up for myself. No matter how much I fall I'll be able to climb up again and again. To become the best version of myself, I won't surrender to fate, I will step forward though I must be resisted by everyone, and I won't let time waste again. Today, I will do my plan completely, I must improve my time management. yesterday, I wasted time too much in a new friend group (I should reduce this time for myself), I wasted my a lot of time on social media and Messenger, and I wasted my time falling asleep. This is my mistake, I can't do the plan I thought yesterday, I give the time myself too little. Today, I will do everything faster but efficiently, I will reduce my waste of time; the time I don't do anything, I will prioritize planned tasks to do, and I will make sure that I can do all of this day, I will give time myself more, and I will control my social media pulse (control the time I will read and response clearly to text).
 
 ## 4/9/2567
+- **go to bed:** 23:40
+- **sleep:** 0:00
+- **wake up:** 6:40 (wake up since 6:00 i so late)
+    - I must hurry up to do my md project, It has only 2 big topics.  I must hurry because soon, I must go to eat KFC that is my reward to my friend: i don't want to make them know what the my life plan project, i will hide it untill I'm become to best version myself. And the exam day is getting closer and closer, I want to use that time to serious review. From the all. This morning I little nervous, my friend know that i'm going to buy piano, make me embarrassed a bit to express myself. But i won't give up to my plan, though in this day i will have high fewer, i will get out my bed, doing the plan, don't make time waste. If i indulgent myself 1 day, another day will follow. I must have responsibility for everything and brave to admit wrongdoing.
+
+
 ## 5/9/2567
+- **go to bed:** 23:47
+- **sleep:** 0:10
+- **wake up:** 6:10 (wake up since 6:00, quite on time)
+    - Today, I will hurry to make a lunch box, take a shower, dress up, and hurry up to go to university. At 8:30-12:30, I have an exam for a computer programming course, I will use the morning time to review content. And today, I won't use time like yesterday, I will study and work on the task to the plan fullest. and the afternoon, I will eat the lunch box and do the task efficiently. Then at 13:30-16:30, I will study a little bit on the courseม don't be serious, rest my brain. After studying I will go to review the calculus course with the TA at 17:00-19:00. After all of the above, I will go to the dormitory faster and do the English homework, both with the review English exam that is exam tomorrow. When I have it all finished, I will use the remaining time to do my markdown project plan. This is my plan for today, It seemed tiring and fatiguing, But if I can pass this day, The day after this will turn to normal, And I will enable to do my plan fully again.
+
 ## 6/9/2567
 ## 7/9/2567
 ## 8/9/2567

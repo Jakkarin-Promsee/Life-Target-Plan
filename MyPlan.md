@@ -7,6 +7,9 @@
     - [] TJSIF
     - [] Era Odyssey
 
+## Complete almost the worst 4/9/2023
+This day I failed in every plan, I didn't finish any plan. This morning I used too much brain to study calculus, and then I was impressionable to my friend left me, I used valuable time to sleep at lunch. I used time waste to study discrete math and play with other things together, which made me a bad studying. Ultimately, I didn't have enough courage to ask out the project that I see it's not my life target, I used more time to prepare my mind. All of this made me fail in everything. It's sad to accept, but all of this is my bad.
+
 
 ## Complete almost well 3/9/2023
 This day was almost well, but my friend was going to my dormitory and having dinner here with me, then it rained so my friend couldn't go back to their dormitory, It took me more time to play and talk with him which was not a bad thing. All of this makes my plan late, I don't have enough time to do English homework.
