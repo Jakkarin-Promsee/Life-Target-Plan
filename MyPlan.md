@@ -2,12 +2,27 @@
 [My bigest life target plan](#my-bigest-life-target-plan)
 
 ## Tomorow
+- [] wake up 6:00 - 6:30 AM
+- [] finished md project (must complete in this day)
+    - [] Era Odyssey (almost done) do game product part between 6:30-8:00
+- [] make and have breakfast 8:00-9:00
+- [] add my duty on every md project between 9:00-9:45
+- [] last check of this file 9:45-11:15
+- [] go to kfc to celabrate this first plan complete 12:00-13:00
+- [] share my work to parent 
+- [] go to study in review online class
+- [] read the three body problem nove
+- [] what the peter griffing animation on engsub
+
+
+## Complete great so much 6/9/2023
+This day is so satisfy, though i can't do according my plan, but to day is big success on the plan. I do everything, despite i waste some time, but I also good. I will keep this going on to day, tomorrow and other. now, I have motivation and proud to do tomorrow the best.
 - [x] diary routine after wake up 
 - [x] read the three body problem nover in a moring for 30-60 minutes before quiz
 - [x] eat break fast before go to quiz
 - [] finished md project (must complete in this day)
     - [x] TJSIF [almost done] 15:30-16:30 on the chair
-    - [] Era Odyssey 18:30-22:30 on the chair
+    - [] Era Odyssey 18:30-22:30 on the chair (almost done)
 - [] read the thee body problem novel 22:30-23:15
 - [] make tomorow plan
 
