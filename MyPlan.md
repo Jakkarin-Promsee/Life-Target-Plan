@@ -1,10 +1,25 @@
 # My Plan Daily plan
+[My bigest life target plan](#my-bigest-life-target-plan)
 
 ## Tomorow
-- [] english summarize (easy)
+- [x] diary routine after wake up 
+- [x] read the three body problem nover in a moring for 30-60 minutes before quiz
+- [x] eat break fast before go to quiz
+- [] finished md project (must complete in this day)
+    - [x] TJSIF [almost done] 15:30-16:30 on the chair
+    - [] Era Odyssey 18:30-22:30 on the chair
+- [] read the thee body problem novel 22:30-23:15
+- [] make tomorow plan
+
+
+## Complete great 5/9/2023
+Today is great, I can complete the plan exactly complete, Though I don't complete some of the tasks completely, but it can intead of the new plan I add it too. I study all day according to plan, go to review class and do the plan by not time waste, but I see the loophole in my plan that i don't set aside of time to other task, It make I don't have time liquidity. It make my brain reach the limit at 22:10pm, It's so tired and i have some headace. Tomorrow i will improve my plan better.
+- [x] english summarize (easy)
+- [x] computer programming (easy)
 - [] read the three problem novel for more than 30 minutes
+- [x] go to calculus review class 17:00 - 19:00
 - [] finished md project
-    - [] TJSIF
+    - [] TJSIF [almost done]
     - [] Era Odyssey
 
 ## Complete almost the worst 4/9/2023
@@ -39,6 +54,7 @@ In this day i have more variable; more people contact me from my poftfolio post,
 ---
 
 # My bigest life target plan
+[My Plan Daily plan](#my-plan-daily-plan)
 
 - ## **[] Rewrite all project since grade 7 to .md file** 
     <br>(have portfolio to use in applying for work) 
@@ -49,11 +65,11 @@ In this day i have more variable; more people contact me from my poftfolio post,
         - [x] JSTP
 
     - **grade 10-12**
-        - [] bennett
-        - [] robot student art
-        - [] TJSIF
+        <!-- - [] bennett -->
+        <!-- - [] robot student art -->
+        - [x] TJSIF
         - [] Era Odeyssey
-        - [] POSN COMPUTER camp 2 && competitive programming student art
+        <!-- - [] POSN COMPUTER camp 2 && competitive programming student art -->
 
 - ## **[] Practice and understand maths and physics before module 1 exam** 
     <br>(have grad more D and have high everage grade) 
