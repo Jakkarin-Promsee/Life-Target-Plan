@@ -95,4 +95,13 @@
 
 
 ## 7/9/2567
+- **go to bed:** 00:20
+- **sleep:** 00:40
+- **wake up:** 6:30 (get out of bed 7:21)
+    - Today I wake up in time but I don't get out of bed, my discipline isn't enough. But this morning, I had an exact plan, I set everything on the time step by step. Ok i will hurry up to do it.
+## 8/9/2567
+## 8/9/2567
+## 8/9/2567
+## 8/9/2567
+## 8/9/2567
 ## 8/9/2567

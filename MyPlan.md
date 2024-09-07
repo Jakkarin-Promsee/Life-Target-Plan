@@ -2,17 +2,24 @@
 [My bigest life target plan](#my-bigest-life-target-plan)
 
 ## Tomorow
-- [] wake up 6:00 - 6:30 AM
-- [] finished md project (must complete in this day)
-    - [] Era Odyssey (almost done) do game product part between 6:30-8:00
-- [] make and have breakfast 8:00-9:00
-- [] add my duty on every md project between 9:00-9:45
-- [] last check of this file 9:45-11:15
-- [] go to kfc to celabrate this first plan complete 12:00-13:00
-- [] share my work to parent 
-- [] go to study in review online class
-- [] read the three body problem nove
-- [] what the peter griffing animation on engsub
+- [] Wake up and get out of bed before 6:30
+- [] Review Physic content before 12:00
+- [] Review Physic quiz before 12:00
+- [] Study reveiew class 13:00-15:00
+- [] Read The three body problem novel dinner
+
+## Today
+Today is awesome, I have completed The big one plan: The MD Portfolio project. I was doing more things on the plan. though I wake up late, but I still do it on the time. I was asleep when I studied in the review physics online class, This is the only thing I failed today. I must compensate for tomorrow with a hard study in the morning and keep going with the content in class in the afternoon.  
+
+- [x] finished md project (must complete in this day)
+    - [x] Era Odyssey (almost done) do game product part between 6:30-8:00
+- [x] add my duty on every md project between 9:00-9:45
+- [x] last check of this file 9:45-11:15
+- [x] go to kfc to celabrate this first plan complete 12:00-13:00
+- [x] share my work to parent 
+- [x] go to study in review online class
+- [x] read the three body problem novel in night for 1-2hr
+- [] what the peter griffing animation on engsub for 1-2 chapter
 
 
 ## Complete great so much 6/9/2023
@@ -71,7 +78,7 @@ In this day i have more variable; more people contact me from my poftfolio post,
 # My bigest life target plan
 [My Plan Daily plan](#my-plan-daily-plan)
 
-- ## **[] Rewrite all project since grade 7 to .md file** 
+- ## **[x] Rewrite all project since grade 7 to .md file** 
     <br>(have portfolio to use in applying for work) 
     <br>[(before 6/9/65) (6 day) <br>reward is kfc 1 meals.]
 
@@ -83,7 +90,7 @@ In this day i have more variable; more people contact me from my poftfolio post,
         <!-- - [] bennett -->
         <!-- - [] robot student art -->
         - [x] TJSIF
-        - [] Era Odeyssey
+        - [x] Era Odeyssey
         <!-- - [] POSN COMPUTER camp 2 && competitive programming student art -->
 
 - ## **[] Practice and understand maths and physics before module 1 exam** 
