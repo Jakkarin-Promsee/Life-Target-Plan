@@ -2,13 +2,12 @@
 [My bigest life target plan](#my-bigest-life-target-plan)
 
 ## Tomorow
-- [] Wake up and get out of bed before 6:30
-- [] Review Physic content before 12:00
-- [] Review Physic quiz before 12:00
-- [] Study reveiew class 13:00-15:00
-- [] Read The three body problem novel dinner
+- [zzz] Wake up and get out of bed before 6:30
+- [x] Review Physic content before 12:00
+- [x] Study reveiew class 13:00-15:00
+- [] Review calus for the ready to exam
 
-## Today
+## 8/9/2023
 Today is awesome, I have completed The big one plan: The MD Portfolio project. I was doing more things on the plan. though I wake up late, but I still do it on the time. I was asleep when I studied in the review physics online class, This is the only thing I failed today. I must compensate for tomorrow with a hard study in the morning and keep going with the content in class in the afternoon.  
 
 - [x] finished md project (must complete in this day)

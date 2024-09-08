@@ -99,7 +99,12 @@
 - **sleep:** 00:40
 - **wake up:** 6:30 (get out of bed 7:21)
     - Today I wake up in time but I don't get out of bed, my discipline isn't enough. But this morning, I had an exact plan, I set everything on the time step by step. Ok i will hurry up to do it.
+
 ## 8/9/2567
+- **go to bed:** 23:45
+- **sleep:** 0:15
+- **wake up:** 8:00
+    Today, I'm so late to get out of bed. though I wake up at 6 AM, until I get out of bed, It took me more than 1hr. I'm so disappointed in myself, These Sundays and Saturdays make me be together late, I think I must do something of these late. 
 ## 8/9/2567
 ## 8/9/2567
 ## 8/9/2567
