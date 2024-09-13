@@ -105,8 +105,24 @@
 - **sleep:** 0:15
 - **wake up:** 8:00
     Today, I'm so late to get out of bed. though I wake up at 6 AM, until I get out of bed, It took me more than 1hr. I'm so disappointed in myself, These Sundays and Saturdays make me be together late, I think I must do something of these late. 
-## 8/9/2567
-## 8/9/2567
-## 8/9/2567
+## 11/9/2567
+- **go to bed:** 23:45
+- **sleep:** 24:00
+- **wake up:** 6:00
+    - Today I wake up early, I woke up 6:00 AM: when I was conscious of the clock, I was hurrying to jump out of bed cause I didn't to sleep again. I know if I just wank and close the clock, I will sleep again. This incident happened almost every day, I woke up early, I closed the clock, I slept continuously, and I woke up late from the plan. That day I used a new strategy, When I recognize myself I will Jump off the bed and then slowly think whether to go to sleep or not. It seemed this plan was completely successful. Today I will read and review the computer programming subject content for the exam at noon. In the morning, I won't use time waste, I will study consciously and firmly. I will eat all my meals before the exam. When The exam is complete, I will use the time wisely to review the last subject that has the exam tomorrow. I will use the time between today - tomorrow fully for the exam. I will keep an A or B+ for every subject, Now It just lacks 2 subjects that I haven't done in the exam.
+## 12/9/2567
+- **go to bed:** 23:45
+- **sleep:** 00:00
+- **wake up:** 3:00 5:10 6:10 (out of bed 6:40)
+    - Today I was startled so much, that I woke up at 3 AM and 5:10 AM by myself. It makes me wake up late. I am 10-30 minutes late on the plan. On this day, I will review all discrete content knowledge before the exam at 1:00 PM. In the morning, I will have breakfast and lunch, take a shower, and dress up. In the review part, I have a little part of practice. I can do all of this in the morning, If don't have anything unexpected to happen.
+
+## 13/9/2567
+- **go to bed:** 18:00
+- **sleep:** 18:00
+- **wake up:**
+    - first 22:00-1:00
+    - last 7:00
+    Now that the exam is done, I have completed all of the exams successfully. I think it's the best for me, I make everything the best and I won't regret that later. I'm confident of my answer to more than 70% of the exam. Both math, physics, computer programming, and discrete math. I eat KFC as much as I am willing, and I sleep as long as I want. Additionally, At night, I also conversation with my friend about the chemical electrochromic glass Project. I'm so proud of myself, Everything is better. The first goal I plan The markdown file project book, Though I little late with I plan, it was successful completely. The second goal The reading plan to go through F, It's also successful completely. Now It's the third plan period, I will make a website with node JS connected to a database and deploy it to Vercel to make my website public. I also have a plan to help other people who don't know electronic sensors and programming in The chemical electrochromic glass Project to improve their work. I also have improved my mind and my body plan, I have started to drink more pure water to the body wants from research. I have started to wake up early and sleep before midnight, Sleep with sleep on time. I have a plan to improve my thoughts with more techniques while I work such as 80/20 law, permodoro technique, etc. I also begin to read English novels, manga, and movies instead of Thai language to improve my skills. Though it was so rough and hard, I had so much fun learning new language grammar, It was so challenging for me to connect the story with another language. In Thai, we use special words to indicate time and have only 1 tense, But in English, They use more tense to indicate time and another. Finally, The most important, I so enjoy with this. Though I don't have the time to play games, I also have enough free time to other languages novels, and manga. It's so cool, I don't play games, don't watch series and movies, Just read knowledge books, and other language novels and manga. Yes, I also be freshman programmer. Now I'm so proud of my change. I will show them the feeling that I want to make friends with them and they don't, I will show that only myself make me successful, I will learn to be an expert before them will start to learn in university class.
+
 ## 8/9/2567
 ## 8/9/2567

@@ -103,6 +103,32 @@ After waking up, write down everything on your mind, such as things you want to 
 
 ---
 
+## The thing must do after wake up
+- Drinking enough water 
+    - after wake up immediately
+    - before take the shower immediately
+    - before eat 15 minutes
+    - before sleep 30 minutes
+    - while exercise sip the water often
+- Making balance by breakfast
+    - IF 10AM, 12PM, 2PM
+    - Great breakfast
+        - natural food, avoid ready-made food
+        - make more 3 colors in meal (indicate moer nutritional)
+- Taking shower stimulate the metabolism
+    - drink water 300cc before take shower
+    - take warn water and swrap to cool water (😭 dormitary don't have control temparature water)
+        - moring use cool water to stimulate body 
+        - evening use hot water to relax body
+- Walking to stimulate happyness hormone
+    - walk in morning 15 minutes in wipe open area, have little light for D vitamin
+    - close eyes and hears the natural sensing
+
+- decorate room to stimulate brain cell, make the brain relax by decorate orderly, make system and plan
+    - bring the thing you don't use out the bedroom, make the room orderly and clean
+
+---
+
 ## How to Make Every Goal in Life Come True
 - **Know your goal and plan:** Study how to achieve it.
 - **Gather specific details:** Find the necessary information for your plan.

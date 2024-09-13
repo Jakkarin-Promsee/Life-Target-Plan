@@ -2,12 +2,46 @@
 [My bigest life target plan](#my-bigest-life-target-plan)
 
 ## Tomorow
+- [] have morning
+- [] have lunch
+- [] have dinner
+- [] write code with serve - today
+- [] study to make schumar - today
+- [] try to deploy it to vercel - today
+
+## 12/9/2023
+This I don't have even plan 😂. The Discrete math is so stronge, I wake up and don't open even the plan, I read read and read. In the exam, I'm doing well. 
+
+## 11/9/2023
+- [x] wake up 6:00
+- [x] writing morning dialy 6:10-6:30
+- [x] cleaning and arrange thing in the room to order
+- [x] review knowledge 7:00-12:00
+- [x] have breakfast-lunch before 12:00
+- [x] review discrete math 16:00 - 18:00
+- [] review discrete math 19:00 - 21:00
+- [x] review discrete math 22:00 - 23:30
+
+## 10/9/2023 
+I was successful in the physics exam, I can almost do all the exams, except the collision topic, in which I lack some knowledge.  However, the thing I should improve on is my time management in the afternoon and at night. I should control my nap time in the afternoon which to day I waste much time—and planning to read and review content at night. Though today I wasted a lot of time, but I am still working on my plan, I read the three-body problem novel for 1 hour and reviewed some content for tomorrow's exams. Tomorrow I will wake up early, make some coffee, write the daily morning, and review knowledge before noon. I will have eaten a meal before going to the exam. When The exam is complete, I will go to the dormitory to review discrete math content with no nap. 
+- [x] wake up 6:00
+- [x] review knowledge 6:30-8:30
+- [x] have breakfast 6:30-8:30
+- [] reveiw discrete math 14:00 - 16:00
+- [x] review discrete math 18:00 - 21:00
+- [] review discrete math 22:00 - 23:00
+- [x] read the three body problem novel 22:00-23:30
+
+## 9/9/2023
+This's exam day, I successful to do calculus exam. 🔥🔥🔥
+
+## 8/9/2023
 - [zzz] Wake up and get out of bed before 6:30
 - [x] Review Physic content before 12:00
 - [x] Study reveiew class 13:00-15:00
-- [] Review calus for the ready to exam
+- [x] Review calus for the ready to exam
 
-## 8/9/2023
+## 7/9/2023
 Today is awesome, I have completed The big one plan: The MD Portfolio project. I was doing more things on the plan. though I wake up late, but I still do it on the time. I was asleep when I studied in the review physics online class, This is the only thing I failed today. I must compensate for tomorrow with a hard study in the morning and keep going with the content in class in the afternoon.  
 
 - [x] finished md project (must complete in this day)
